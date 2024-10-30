@@ -1,0 +1,14 @@
+.header{
+    background-color: gray;
+    text-align: center;
+    color: white;
+    padding: 4rem 1rem;
+}
+
+
+.nav ul {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+
